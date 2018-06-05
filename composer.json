@@ -1,5 +1,5 @@
 {
-	"name" : "philkra/elastic-apm-php-agent",
+	"name" : "test/elastic-apm-php-agent",
 	"license": "MIT",
 	"require" : {
 		"php" : ">= 7.0",
